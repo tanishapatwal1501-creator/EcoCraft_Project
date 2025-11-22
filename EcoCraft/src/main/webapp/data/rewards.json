@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "type": "shoutout",
+    "message": "🌟 Eco Warrior! Thanks for sharing your first zero-waste tutorial!",
+    "date": "2024-01-16",
+    "claimed": false
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "type": "coupon",
+    "message": "Congratulations! You've earned a 15% discount coupon for eco-friendly products! Code: ECO15",
+    "date": "2024-01-18",
+    "claimed": false
+  }
+]
